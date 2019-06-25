@@ -822,3 +822,15 @@ Step 3 : Find the line
             #jmeter.save.saveservice.timestamp_format=yyyy/MM/dd HH:mm:ss.SSS
              Uncomment and edit the format as required
 Step 4 : Restart JMeter
+
+ How to use JSON Extractor
+ =========================
+ 
+References:
+https://reqres.in/
+https://codebeautify.org/jsonviewer
+
+What is JSON Extractor
+How to use JSON Extractor
+How to refer multiple values
+How to refer json extracted values
