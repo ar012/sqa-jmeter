@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1561461697210,7885,HTTP Request,200,OK,Thread Group 1-1,text,true,,57371,119,1,1,http://lifecharger.org/,7072,0,522
