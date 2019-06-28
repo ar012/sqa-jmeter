@@ -1,0 +1,43 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1561727804008,60033,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727804008,6402,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727804008,0,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1561727805008,60102,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727805008,93734,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727805008,7539888000,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1561727806010,60140,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727806010,97761,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727806010,9223608000,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1561727807011,60155,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727807011,98997,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727807011,8627704000,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1561727808017,60192,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727808017,98241,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727808018,9483575000,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1561727809018,60206,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727809018,96992,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727809018,8524668000,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1561727810018,60225,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727810018,99250,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727810018,9219308000,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1561727811018,60210,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727811019,98496,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727811019,7418443000,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1561727812019,60201,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727812019,97487,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727812019,8531958000,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1561727813020,60203,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727813020,98997,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727813020,8777184000,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1561727814025,60167,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727815562,97744,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727815562,9667586000,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1561727816563,60158,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727816563,97755,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727816563,9696491000,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1561727817563,60169,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727817563,97256,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727817563,8810707000,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0
+1561727818563,60155,localhost Memory,,,,,true,,0,0,0,0,null,0,0,0
+1561727818564,98746,localhost CPU,,,,,true,,0,0,0,0,null,0,0,0
+1561727818564,9830292000,localhost Network I/O,,,,,true,,0,0,0,0,null,0,0,0

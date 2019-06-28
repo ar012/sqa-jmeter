@@ -33,7 +33,7 @@
           <stringProp name="portString">80</stringProp>
           <boolProp name="imageParsing">false</boolProp>
           <stringProp name="parserClassName">org.apache.jmeter.protocol.http.util.accesslog.TCLogParser</stringProp>
-          <stringProp name="logFile">C:\Users\razzak\Documents\load-testing\learn-src\logs</stringProp>
+          <stringProp name="logFile">src/reports/logs</stringProp>
         </AccessLogSampler>
         <hashTree/>
         <ResultCollector guiclass="StatVisualizer" testclass="ResultCollector" testname="Aggregate Report" enabled="true">
@@ -70,7 +70,7 @@
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename">src/reports/access_results.csv</stringProp>
+          <stringProp name="filename">src/reports/access_log.csv</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
