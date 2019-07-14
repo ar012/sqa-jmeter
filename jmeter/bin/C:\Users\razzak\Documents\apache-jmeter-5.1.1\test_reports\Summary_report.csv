@@ -1,6 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1561700305817,2496,HTTP Request,200,OK,Users 1-2,text,true,,40922,142,5,5,http://lifecharger.org/look-at-the-other-side/,1891,0,603
-1561700306019,2314,HTTP Request,200,OK,Users 1-3,text,true,,40922,142,4,4,http://lifecharger.org/look-at-the-other-side/,1675,0,403
-1561700305655,2678,HTTP Request,200,OK,Users 1-1,text,true,,40923,142,4,4,http://lifecharger.org/look-at-the-other-side/,2044,0,767
-1561700306218,2472,HTTP Request,200,OK,Users 1-4,text,true,,40908,142,2,2,http://lifecharger.org/look-at-the-other-side/,2119,0,292
-1561700306418,2406,HTTP Request,200,OK,Users 1-5,text,true,,40908,142,1,1,http://lifecharger.org/look-at-the-other-side/,2125,0,393
