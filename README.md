@@ -1,3 +1,5 @@
 # JMeter load-testing
 
-## scripts, reports, assets are in jmeter/bin/src
+## guide -> Instructons
+
+## jmeter/bin/src/{scripts, reports, data, assets, custom-templates}
