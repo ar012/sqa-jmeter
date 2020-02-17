@@ -9,37 +9,36 @@ Necessary Topics for Performance Testing with JMeter
                                       https://www.youtube.com/watch?v=xAnSZMGO-xE&list=PLIMhDiITmNrLcYc00erJ9T36rxShFHuIS
                                       https://www.youtube.com/watch?v=hzoZmaeT4ww&list=PL9ooVrP1hQOHa3W8GRZjZxGoiBfeWKmvL&index=30
 
-1 - How to install Jmeter
-2 - How to create first Jmeter Test
-3 - How to use Assertions
-4 - How to use Listeners
-5 - How to record a UI (web) Test
-6 - How to create a Database Test Plan
-7 - How to run jmeter from Command Line (non GUI mode)
-8 - How to test FTP upload and download
-9 - Testing Web Services API
-10 - How to create assertions for JDBC (Database) Test
-11 - How to create HTML Dashboard Reports from command
-12 - How to use Plugins Manager
-13 - How to read data from CSV file (Parameterisation)
-14 - Functions and Variables
-15 - How to setup realistic performance test-PACING
-16 - TIMERS (How to add Think Time)
-17 - How to parameterize FTP test
-18 - How to run Scheduled Sequential execution
+1 - How to install Jmeter?
+2 - How to create first Jmeter Test?
+3 - How to use Assertions?
+4 - How to use Listeners?
+5 - How to record a UI (web) Test?
+6 - How to create a Database Test Plan?
+7 - How to run jmeter from Command Line (non GUI mode)?
+8 - How to test FTP upload and download?
+9 - How to test Web Services API?
+10 - How to create assertions for JDBC (Database) Test?
+11 - How to create HTML Dashboard Reports from command?
+12 - How to use Plugins Manager?
+13 - How to read data from CSV file (Parameterisation)?
+14 - Functions and Variables?
+15 - How to setup realistic performance test-PACING?
+16 - TIMERS (How to add Think Time)?
+17 - How to parameterize FTP test?
+18 - How to run Scheduled Sequential execution?
 19 - Correlation (with Regular Expression Extractor)
-20 - How to use TEMPLATES
-21 - How to use Test Script Recorder
-22 - How to test File Upload
-23 - How to test File Download
-24 - How to DEBUG
-25 - Jmeter How to record login test
-26 - How to Monitor Server Health with PerfMon _ How to a
-27 - How to install JMeter on Linux | amazon aws ec2
+20 - How to use TEMPLATES?
+21 - How to use Test Script Recorder?
+22 - How to test File Upload?
+23 - How to test File Download?
+24 - How to DEBUG?
+25 - How to record login test?
+26 - How to Monitor Server Health with PerfMon _ How to a?
+27 - How to install JMeter on Linux | amazon aws ec2?
 28 - JMeter Remote Testing | Master Slave Distributed Testing
-29 - JMeter How To Use Recording
+29 - How To Use Recording?
 30 - JMeter Selenium Webdriver sampler
-
 
 ================================================================================
 JMeter Tips and Tricks
